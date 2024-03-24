@@ -8,11 +8,9 @@ Files Included
 index.html: This file contains the structure of the game board and links to the necessary JavaScript and CSS files.
 style.css: This file contains the styling for the game board and its elements.
 script.js: This file contains the JavaScript code responsible for the game logic, including handling player moves, checking for a winner, and updating the game board accordingly.
-
 Technologies Used
 HTML: Used for structuring the game board.
 CSS: Used for styling the game board and its elements.
 JavaScript: Used for implementing the game logic and interactivity.
-
 Credits
 This project was created under the guidance of Love Babbar. It is based on the classic Tic Tac Toe game.
